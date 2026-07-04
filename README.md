@@ -4,7 +4,7 @@
 - OAuth
 - JWT
   
-### Vulenerabilities:
+### Vulenerabilities
 - IDOR
 - SSRF
 - XXS

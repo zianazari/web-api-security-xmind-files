@@ -1,4 +1,4 @@
-# Some Xmind files for Web Concepts and Web/API security
+# Some Xmind files for Web Concepts and Web/API Security
 
 ### Concepts
 - OAuth
